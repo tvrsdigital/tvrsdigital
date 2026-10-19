@@ -40,7 +40,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Ipiranga,
 - [Become an OCI Foundations Associate] - *Oracle University / Conclusão: 11/2026*
 - [Dispositivos de Rede e Configuração Inicial] - *Cisco Networking Academy / Conclusão: 11/2026*
 
----
 
 <!-- ## 🌟 Projeto em Destaque
 
@@ -49,7 +48,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Ipiranga,
 - **Tecnologias:** Java, SQL/SQLite, Orientação a Objetos.
 - 🔗 **Repositório:** [Acessar Projeto](https://github.com/seu-usuario/seu-repositorio) --> 
 
----
+
 
 ## 🚧 Projetos em Andamento
 
@@ -72,8 +71,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Ipiranga,
 
 
 
+<!-- 
 --- 
 
-<!-- ## 📊 Minhas Estatísticas no GitHub
+ ## 📊 Minhas Estatísticas no GitHub
 
 [![Tavares's GitHub stats](https://github-stats-extended.vercel.app/api?username=tvrsdigital)](https://github.com/stats-organization/github-stats-extended) --> 
