@@ -52,7 +52,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Ipiranga,
 
 ## 🚧 Projetos em Andamento
 
-### 📦 [Nome do Projeto / ex: Plataforma de Catalogação de Mídias]
+### 📦 [Comic Book Tracker]
 > Sistema web e mobile para gerenciamento e organização de acervos pessoais de livros, filmes e jogos.
 
 - **Status atual:** 🔄 Modelagem do banco de dados e estrutura base da API concluídas.
