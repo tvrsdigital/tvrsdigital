@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello World! 
 
-<!--
-**tvrsdigital/tvrsdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC Ipiranga.
+Movido pela curiosidade por tecnologia e pela vontade de aprender. 
 
-Here are some ideas to get you started:
+📫 tvrs.digital54@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑🏼‍💻 Sobre Mim
+
+### 🌱 Estudando 
+
+### 🎓 Certificações concluídas
+
+### 🧑🏻‍🏫 Certificações em andamento
+
+## 🤖 Repositórios
+
+## 🔭 Projetos da Faculdade
+
+## 🍄 Projetos Pessoais 
