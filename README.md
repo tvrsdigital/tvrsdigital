@@ -14,7 +14,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Ipiranga,
 - 🎓 **Formação:** 
   - Análise e Desenvolvimento de Sistemas (FATEC Ipiranga)
   - Licenciatura em Ciências da Natureza (USP) - *Experiência prévia como monitor de Cálculo e Estatística.*
-- 🎯 **Objetivo:** Oportunidades em desenvolvimento de software (Backend / Estágio / Trainee).
+- 🎯 **Objetivo:** Oportunidades em desenvolvimento de software (Estágio / Trainee).
 
 ---
 
