@@ -33,11 +33,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Ipiranga,
 ## 🎓 Certificações
 
 ### 🎓 Concluídas
-<!-- - [Nome da Certificação 1] - *Instituição / Carga Horária*
-- [Nome da Certificação 2] - *Instituição / Carga Horária* -->
+- [Oracle Java Foundations: Training and Assessment] - *Oracle University / 10h23m* 
+- [Fundamentos de Data Science e Inteligência Artificial] - *Data Science Academy / 24h* 
 
 ### ⏳ Em Andamento
-<!-- - [Nome da Certificação 3] - *Previsão de conclusão: MM/AAAA* -->
+- [Become an OCI Foundations Associate] - *Oracle University / Conclusão: 11/2026*
+- [Dispositivos de Rede e Configuração Inicial] - *Cisco Networking Academy / Conclusão: 11/2026*
 
 ---
 
