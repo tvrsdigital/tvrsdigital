@@ -1,6 +1,6 @@
 # 🚀 Olá Mundo! 
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Ipiranga, com formação prévia em **Ciências da Natureza pela USP**. Sou movido pela curiosidade pela tecnologia 
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Ipiranga, com formação prévia em **Ciências da Natureza pela USP**. Sou movido pela curiosidade pela tecnologia e a vontade de aprender cada vez mais.  
 
 📫 **Contato:** tvrs.digital54@gmail.com  
 💼 **LinkedIn:** [Tavares](https://linkedin.com/in/tvrsdigital54)
